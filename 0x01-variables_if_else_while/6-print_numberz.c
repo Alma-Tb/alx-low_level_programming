@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ * main - main block 
  * Description: Print all numberd of base 10 twice
  * Return: 0
  */
