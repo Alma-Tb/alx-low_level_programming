@@ -2,6 +2,13 @@
 #include <time.h>
 #include <stdlib.h>
 
+/**
+ * main - main block
+ * Description: Geneeate a random number using srand and print 
+ * whether the numbee is positive or negative or zeeo
+ * Retuen: 0
+ */
+
 int main(void)
 {
 	int n;
