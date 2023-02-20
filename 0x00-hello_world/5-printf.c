@@ -2,7 +2,7 @@
 
 /**
  *
- * main - main block 
+ * main - main block
  *
  * Description: peint using printf
  *
